@@ -1,6 +1,8 @@
 # flutter_hangman
 
-A new Flutter project.
+A new Flutter project. in this lab i have add the provider package, flutter puband add some dependencies.
+Run this command flutter pub runin the terminal to unstall some package.
+i took help of online AI, my classmates.
 
 ## Getting Started
 
